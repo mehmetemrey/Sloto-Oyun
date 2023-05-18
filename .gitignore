@@ -1,0 +1,17 @@
+target/
+*.class
+*.log
+*.jar
+
+# macOS
+.DS_Store
+
+# IDEs
+.idea/
+*.iml
+out/
+.classpath
+.project
+.settings/
+.vscode/
+/nbproject/private/
